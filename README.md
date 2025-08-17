@@ -19,13 +19,3 @@ Tech Stack
 
 2. Scanner for console-based user interaction
 
-Project Structure
-tic-tac-toe-lld/
-│── src/
-│   ├── Main.java        # Entry point of the program
-│   ├── Game.java        # Game loop and core logic
-│   ├── Board.java       # Board representation
-│   ├── Player.java      # Player details (symbol, name)
-│   └── Utils.java       # Helper methods (if any)
-│
-└── README.md
